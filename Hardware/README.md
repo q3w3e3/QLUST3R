@@ -4,7 +4,7 @@
 
 For my first revision of the layout for the cluster I sought to pack everything in the smallest volume possible, with little regard for airflow or how the whole thing would be encased.
 
-![cluster image](Rev1/cluster.png)
+![cluster image](Rev1/cluster.png = 250x)
 ![orth cluster image x](Rev1/OrthoX.png)
 ![orth cluster image y](Rev1/OrthoY.png)
 
