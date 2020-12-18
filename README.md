@@ -34,4 +34,4 @@ For more details on the hardware, and the build process, check the [Hardware dir
 
 ## Software
 
-For more details on the software check out the [Software directory](/Software/README.md)
+For more details on the software check out the [Software directory](/Software)
