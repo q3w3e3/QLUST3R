@@ -1,7 +1,7 @@
 # Software
 
-[HPC benchmarks and MPI](/HPC/README.md)
+[HPC benchmarks and MPI](/HPC)
 
-[Docker Swarm Experiments](/DockerSwar/README.md)
+[Docker Swarm Experiments](/DockerSwarm)
 
-[k3s running MPI between nodes](/k3sMPI/README.md)
+[k3s running MPI between nodes](/k3sMPI)
