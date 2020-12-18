@@ -30,7 +30,7 @@ The hardware used:
 
 The addition of fans will bring me over my planned soft budget of $700, but I will address cooling later.
 
-For more details on the hardware, and the build process, check the [Hardware directory](/Harware/README.md)
+For more details on the hardware, and the build process, check the [Hardware directory](/Hardware/README.md)
 
 ## Software
-For more details on the software check out the [Software directory](/Sofrware/README.md)
+For more details on the software check out the [Software directory](/Software/README.md)
