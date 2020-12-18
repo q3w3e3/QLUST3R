@@ -14,12 +14,9 @@ I didnt do much work at this scale as it didnt get much airflow to a few of the 
 
 I then added shrouding and a case, as shown here:
 
-| | |
-|---|---|
 |<img src="Rev2/Rev2-3_4_1.png" >|<img src="Rev2/Rev2-3_4_2.png">|
+|---|---|
 |<img src="Rev2/Rev2-orthFront_NoCase.png">|<img src="Rev2/Rev2-orthSide_NoCase.png">|
-
-
 
 This second revision both added shrouds to encourage airflow acros all the boards, as well as a case, and a slightly improved layout encouraging airflow across the switch, and power supply.
 
