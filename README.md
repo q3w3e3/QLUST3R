@@ -1,6 +1,6 @@
 # ARMcluster
 
-This repo will contain as much of my work on the arm cluster as I bother to doccument.
+This repo will contain as much of my work on the arm cluster as I bother to document.
 
 ## Hardware
 
