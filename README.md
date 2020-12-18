@@ -33,4 +33,5 @@ The addition of fans will bring me over my planned soft budget of $700, but I wi
 For more details on the hardware, and the build process, check the [Hardware directory](/Hardware/README.md)
 
 ## Software
+
 For more details on the software check out the [Software directory](/Software/README.md)
