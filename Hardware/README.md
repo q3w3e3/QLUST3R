@@ -4,9 +4,7 @@
 
 For my first revision of the layout for the cluster I sought to pack everything in the smallest volume possible, with little regard for airflow or how the whole thing would be encased.
 
-<img src="Rev1/cluster.png" width=50%>
-
-|||
+<img src="Rev1/cluster.png">||
 |---|---|
 |<img src="Rev1/OrthoX.png">|<img src="Rev1/OrthoX.png">|
 
