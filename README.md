@@ -1,4 +1,4 @@
-# ARMcluster
+# QLUST3R
 
 This repo will contain as much of my work on the arm cluster as I bother to document.
 
